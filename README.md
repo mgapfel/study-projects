@@ -9,4 +9,4 @@ El repositorio está organizado por temas; cada carpeta indica el lenguaje utili
 
 | Área | Qué practico | Lenguaje |
 |------|--------------|----------|
-| [Algoritmos](algorithms/) | Ejercicios del libro *Título del libro*, organizados por capítulos | Python |
+| [Algoritmos](algorithms/) | Ejercicios mixtos de algoritmos | Python |
