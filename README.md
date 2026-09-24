@@ -1,12 +1,10 @@
 <p align="right">🇪🇸 Español · <a href="README.en.md">🇬🇧 English</a></p>
 
-# Coding Practice
+# Algoritmos
 
-Ejercicios y prácticas que desarrollo mientras aprendo programación.
-El repositorio está organizado por temas; cada carpeta indica el lenguaje utilizado.
+Ejercicios de práctica del libro **Comprender los algoritmos (segunda actualización)**,
+de Aditya Y. Bhargava (Anaya Multimedia, AÑO). Implementados en Python 3.10+.
 
-## Contenido
-
-| Área | Qué practico | Lenguaje |
-|------|--------------|----------|
-| [Algoritmos](algorithms/) | Ejercicios mixtos de algoritmos | Python |
+| Capítulo | Tema | Ejercicios | Estado |
+|----------|------|------------|--------|
+| [01](ch01-introduction/) | Introducción a los algoritmos | Búsqueda binaria | En curso |
